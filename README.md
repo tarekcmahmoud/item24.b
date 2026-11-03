@@ -3,8 +3,8 @@
 A scroll-driven presentation of ITEM 024.b, a work in progress by GM Architects: a leaf's path through turbulent air,
 traced into a curve and shaped into a suspended, ribbed light.
 
-- **Scrolling version:** https://tarekcmahmoud.github.io/item24.b/
-- **Autoplay version:** https://tarekcmahmoud.github.io/item24.b/autoplay.html (one scroll, swipe or key starts it; add `?debug` to the address for the speed slider)
+- **Scrolling version:** https://gmarchitects.github.io/item24.b/
+- **Autoplay version:** https://gmarchitects.github.io/item24.b/autoplay.html (one scroll, swipe or key starts it; add `?debug` to the address for the speed slider)
 
 ## How it works
 
